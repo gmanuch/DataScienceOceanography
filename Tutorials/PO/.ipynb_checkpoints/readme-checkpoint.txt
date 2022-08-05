@@ -1,6 +1,8 @@
 Data for this project is downloaded using the Copernicus API: https://cds.climate.copernicus.eu/api-how-to follow these quick instructions first. 
 
-The download_era.py script gets this data:  https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means-preliminary-back-extension?tab=form
+The download_era.py script gets this data:  https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means-preliminary-back-extension?tab=form   
+
+You will need to agree to terms and conditions following the link that you will recieve when trying to run the download script for the first time;
 
 Once you download the data, there will be an .nc file that is loded and analysed in ENSO.ipynb
 
